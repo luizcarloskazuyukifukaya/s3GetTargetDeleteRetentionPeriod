@@ -5,6 +5,8 @@ Identify and calculate the amount volume of the objects violating the Wasabi Del
 You need to install python environment, so please refer to the following repository for details on how to setup.
 [How to setup your environment](https://github.com/luizcarloskazuyukifukaya/s3pythonsamples/blob/main/README.md)
 
+Once the environment setup is completed, you can execute the Python code like the following:
+
 ```
 python3 ./s3GetTargetDeleteRetentionPeriod.py
 ```
